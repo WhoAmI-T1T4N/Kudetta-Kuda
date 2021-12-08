@@ -39,27 +39,27 @@ if [[ $lp == 1 || $lp == 1 ]]
 then
 clear
 sleep 6
-echo -e $rd "=-------------"
+echo -e $rd "====-----------------------------"
 echo -e $we "10%"
 clear
 sleep
-echo -e $rd "===-----------"
+echo -e $rd "======----------------------------"
 echo -e $we "35%"
 clear
 sleep 6
-echo -e $rd "======--------"
+echo -e $rd "==========-------------------------"
 echo -e $we "46%"
 clear
 sleep 6
-echo -e $rd "========------"
+echo -e $rd "=================-------------------"
 echo -e $we "67%"
 clear
 sleep 6
-echo -e $rd "===========---"
+echo -e $rd "========================-------------"
 echo -e $we "79%"
 clear
 sleep 6
-echo -e $rd "=============="
+echo -e $rd "======================================"
 echo -e $we "100%"
 clear
 sleep 6
@@ -91,12 +91,6 @@ echo -e $gl "2]. Cewe Orang"
 echo -e $bk "∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
 echo -e $yl "Pilih Ngab"
   read -p "=>" pk
-sleep 0.1
-else
-sleep 2
-echo -e $bk "SALAHKAN ASU"
-sleep 3
-bash HackOnta.sh
 fi
 if [[ $lp == 2 || $lp == 2 ]]
 then
@@ -105,33 +99,107 @@ echo -e $rd "██╔══██╗██╔══██╗██╔══█�
 echo -e $rd "██████╔╝███████║██████╔╝███████║ ╚████╔╝"
 echo -e $we "██╔══██╗██╔══██║██╔══██╗██╔══██║  ╚██╔╝"  
 echo -e $we "██████╔╝██║  ██║██████╔╝██║  ██║   ██║"   
-echo -e $we "╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝" 
-sleep 0.1
-else
-sleep 2
-echo -e $bk "Hadehh Gak NGOTAK"
-sleep 3
-bash HackOnta.sh
-fi                                  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+echo -e $we "╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝   ╚═╝"
+fi
+if [[ $pk == 1 || $pk == 1 ]]
+then
+clear
+echo -e $rd "██████╗ ██████╗ ██╗    ██╗ ██████╗"
+echo -e $rd "██╔════╝██╔═══██╗██║    ██║██╔═══██╗"
+echo -e $we "██║     ██║   ██║██║ █╗ ██║██║   ██║"
+echo -e $we "██║     ██║   ██║██║███╗██║██║   ██║"
+echo -e $we "╚██████╗╚██████╔╝╚███╔███╔╝╚██████╔╝"
+echo -e $we "╚═════╝ ╚═════╝  ╚══╝╚══╝  ╚═════╝ "
+echo -e
+echo -e
+echo -e $bk "∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
+echo -e $yl "1]. Mantan Saudara Titan"
+echo -e $yl "2]. Mantan Saudara Achill"
+echo -e $yl "3]. Mantan Kapten Jedag-Jedug Hacker"
+echo -e $yl "4]. Mantan Kang Python"
+echo -e $yl "5]. Mantan Co-Owner LCT"
+echo -e $yl "6]. Mantan Owner LCT"
+echo -e $yl "7]. Mantan Vakum Piltex"
+echo -e $bk "∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
+     read -p "=>" op
+if [[ $op == 1 || $op == 1 ]]
+then
+clear
+xdg-open "https://wa.me/+6289502333337?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 2 || $op == 2 ]]
+then
+clear
+xdg-open "https://wa.me/+6288707740500?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 3 || $op == 3 ]]
+then
+clear
+xdg-open "https://wa.me/+6285363342077?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 4 || $op == 4 ]]
+then
+clear
+xdg-open "https://wa.me/+6281288572373?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 5 || $op == 5 ]]
+then
+clear
+xdg-open "https://wa.me/+6285781807743?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 6 || $op == 6 ]]
+then
+clear
+xdg-open "https://wa.me/+60134583519?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $op == 7 || $op == 7 ]]
+then
+clear
+xdg-open "https://wa.me/+6282239533839?text=Halo%20Sayang%2C%20Mau%20Jadi%20Pacar%20Akuu%F0%9F%A5%B0%F0%9F%A5%B0"
+exit
+fi
+if [[ $pk == 2 || $pk == 2 ]]
+then
+clear
+echo -e $rd " ██████╗███████╗██╗    ██╗███████╗"
+echo -e $rd "██╔════╝██╔════╝██║    ██║██╔════╝"
+echo -e $rd "██║     █████╗  ██║ █╗ ██║█████╗" 
+echo -e $we "██║     ██╔══╝  ██║███╗██║██╔══╝" 
+echo -e $we "╚██████╗███████╗╚███╔███╔╝███████╗"
+echo -e $we "╚═════╝╚══════╝ ╚══╝╚══╝ ╚══════╝"
+echo -e
+echo -e
+echo -e $bk "∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
+echo -e $yl "1]. Mantan Sange"
+echo -e $yl "2]. Mantan Sange 2"
+echo -e $yl "3]. Mantan Hekel Pro Wibuso TZY"
+echo -e $yl "4]. Mantan Sange 3"
+echo -e $yl "5]. Mantan Sange 4"
+echo -e $bk "∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆∆"
+    read -p "=>" lok
+if [[ $lok == 1 || $lok == 1 ]]
+then
+clear
+xdg-open "https://wa.me/+6283125820291?text=Halo%2C%20Mau%20Kenalan"
+exit
+fi
+if [[ $lok == 2 || $lok == 2 ]]
+then
+clear
+xdg-open "https://wa.me/+6283143021302?text=Halo%2C%20Mau%20Kenalan"
+exit
+fi
+if [[ $lok == 3 || $lok == 3 ]]
+then
+clear
+xdg-open "https://wa.me/+6281371470042?text=Halo%2C%20Mau%20Kenalan"
+fi
 
 
 
